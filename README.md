@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 ## Goal
 
-Display a list with the array received from socket http://ec2-54-229-199-201.eu-west-1.compute.amazonaws.com:2345
+Display a list with the array received from websocket
 
 socket server sends a new array every second
 
